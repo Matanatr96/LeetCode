@@ -2,7 +2,7 @@
 My successful leet code submissions
 ---
 
-| Number  | Name                                  | Language |Performance  |
+| Number  | Name                                  | Language |Percentile  |
 |:-------:|:-------------------------------------:|:--------:|:-----------:|
 | 1       | Two Sum                               | Java     |41.45%       |
 | 2       | Add Two Numbers                       | Python   |43.36%       |
